@@ -1,0 +1,27 @@
+/* #main-home .header-top .item a {
+    color: #000000;
+    padding: 10px;
+}
+
+#main-home .header-top .item a:hover {
+    color: #FF004D;
+} */
+
+
+/******Item Card********/
+
+.row{
+    padding: 10px;
+    height: 160px;
+}
+
+.card {
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 2px 2px 0px, rgba(0, 0, 0, 0.12) 0px 2px 4px 0px;
+    text-align: center;
+}
+
+.dropdown {
+    margin-right: 95px;
+}
+
+
